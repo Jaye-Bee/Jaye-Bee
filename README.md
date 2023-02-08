@@ -1,8 +1,8 @@
-- Heya, I’m Jena Baxter (@Jaye-Bee)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+_**J. Baxter**_
+
+- Currently: Earning a BS in Computer Science with a specialization in Software Engineering
+- Coding with: C, C++, Java, tears
+- Has done: Technician work, computer hardware services
 
 <!---
 Jaye-Bee/Jaye-Bee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
